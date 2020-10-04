@@ -36,6 +36,19 @@ p {
   color: #40514E;
 }
 
+hr {
+  width: 50px;
+  border-style: none;
+  border-bottom-style: dotted;
+  border-width: 8px;
+  border-color: #f8efd4;
+  margin: 65px auto 50px auto;
+}
+
+.two-px {
+  margin-top: 200px;
+}
+
 .underline {
   text-decoration: underline;
 }
@@ -45,7 +58,7 @@ p {
 }
 
 .mountain {
-  margin-top: 50px;
+  margin-top: 128px;
 }
 
 .skill-row {
@@ -66,18 +79,18 @@ p {
   width: 30%;
   float: right;
   margin-left: 30px;
-  margin: 1.745rem auto 1.745rem 30px;
+  margin: 1.745rem auto 1.045rem 30px;
 }
 
 .top-container {
   margin: 0;
   position: relative;
   padding-top: 100px;
-  height: 669.400px;
+  height: 739.400px;
 }
 
 .profile-img {
-  margin-top: 50px;
+  margin-top: 100px;
   margin-bottom: 30px;
 }
 
@@ -117,16 +130,9 @@ p {
   color: white;
   font-family: 'Noto Sans JP', sans-serif;
 }
-.about-me{
+
+.about-me {
   line-height: 2;
-}
-hr {
-  width: 50px;
-  border-style: none;
-  border-bottom-style: dotted;
-  border-width: 8px;
-  border-color: #f8efd4;
-  margin: 65px auto 50px auto;
 }
 
 .btn {
