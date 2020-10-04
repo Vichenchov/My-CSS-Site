@@ -35,7 +35,29 @@ h3 {
 a {
   color: #11999E;
 }
+p{
+  font-size: 1.2rem;
+  margin: 0;
+}
 
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-img{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin: 1.745rem 30px 1.745rem auto;
+}
+.soccer-img{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  margin: 1.745rem auto 1.745rem 30px;
+}
 .top-container {
   margin: 0px;
   position: relative;
